@@ -1,4 +1,4 @@
-# Project Title
+# <code style="color : red">TecHost</code>
 
 A short description about the project and/or client.
 
