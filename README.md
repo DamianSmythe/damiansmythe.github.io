@@ -1,4 +1,4 @@
-# <code style="color : red">TecHost</code>
+# <code style="color : aqua">TecHost</code>
 
 A short description about the project and/or client.
 
